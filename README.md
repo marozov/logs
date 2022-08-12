@@ -1,5 +1,20 @@
 **Настраиваем центральный сервер для сбора логов**
 
+Все дальнейшие действия были проверены при использовании
+```
+marozov@iMac-marozov ~ % vagrant -v
+Vagrant 2.2.19
+```
+```
+marozov@iMac-marozov vboxmanage -v
+6.1.32r149290
+```
+CentOS Linux release 7.9 из Vagrant Cloud
+```
+[root@selinux ~]$ cat /etc/redhat-release
+CentOS Linux release 7.9.2009 (Core)
+```
+
 в вагранте поднимаем 2 машины web и log
 на web поднимаем nginx
 на log настраиваем центральный лог сервер на любой системе на выбор
