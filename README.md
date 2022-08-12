@@ -11,8 +11,8 @@ marozov@imac logs % vboxmanage -v
 ```
 CentOS Linux release 7.9 из Vagrant Cloud
 ```
-[root@selinux ~]$ cat /etc/redhat-release
-CentOS Linux release 7.9.2009 (Core)
+[vagrant@log ~]$ cat /etc/redhat-release
+CentOS Linux release 7.8.2003 (Core)
 ```
 
 в вагранте поднимаем 2 машины web и log
