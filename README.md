@@ -6,7 +6,7 @@ marozov@iMac-marozov ~ % vagrant -v
 Vagrant 2.2.19
 ```
 ```
-marozov@iMac-marozov vboxmanage -v
+marozov@imac logs % vboxmanage -v
 6.1.32r149290
 ```
 CentOS Linux release 7.9 из Vagrant Cloud
